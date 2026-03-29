@@ -1,0 +1,11 @@
+@import "tailwindcss/index.css";
+
+@theme {
+  --color-srphs-green: #4F6F52;
+  --color-srphs-beige: #F2EFE5;
+  --radius-4xl: 2rem;
+}
+
+body {
+  background-color: var(--color-srphs-beige);
+}
