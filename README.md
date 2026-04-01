@@ -46,13 +46,11 @@ Interfaz web construida con **React + TypeScript + Vite** que permite a los usua
 
 ---
 
----
-
 ## 📄 Documentación del proyecto
 
 | Documento | Descripción |
 |---|---|
-| [📘 Informe técnico](docs/Proyecto_SRPHS_CaballeroJuan_NuñezRobinson.pdf) | Sistema de recomendación personalizada de hábitos saludables — Documento académico del proyecto de IA |
+| [📘 Lineamientos PTIA](docs/Proyecto_SRPHS_CaballeroJuan_NuñezRobinson.pdf) | Sistema de recomendación personalizada de hábitos saludables — Documento académico del proyecto de IA |
 
 ---
 
