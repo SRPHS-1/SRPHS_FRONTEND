@@ -46,6 +46,17 @@ Interfaz web construida con **React + TypeScript + Vite** que permite a los usua
 
 ---
 
+---
+
+## 📄 Documentación del proyecto
+
+| Documento | Descripción |
+|---|---|
+| [📘 Informe técnico](docs/Proyecto_SRPHS_CaballeroJuan_NuñezRobinson.pdf) | Sistema de recomendación personalizada de hábitos saludables — Documento académico del proyecto de IA |
+
+---
+
+
 ## 🖥️ Vistas y funcionalidades
 
 ### Login / Registro
@@ -142,6 +153,8 @@ VITE_GOOGLE_CLIENT_ID=tu_google_oauth_client_id
 
 ```
 SRPHS_FRONTEND/
+└── src/
+    ├── Proyecto_SRPHS_CaballeroJuan_NuñezRobinson.pdf
 ├── public/
 └── src/
     ├── components/
